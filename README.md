@@ -10,7 +10,7 @@ Stunning graphics powered by SDL2 Engine
 Engaging gameplay mechanics to keep you hooked
 ## 🔧 Installation:
 
-Clone the repository: git clone https://github.com/yourusername/maze-game.git
+Clone the repository: git clone https://github.com/josephakaro/maze-game.git
 Compile the game using your preferred C compiler
 Run the executable and start your maze adventure!
 ## 📚 Dependencies:
@@ -33,6 +33,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## SDL2 Documentation
 Project Demo https://themaze.josephakaro.tech
 ## 🌐 Stay Connected:
-Follow Me on Twitter for updates and announcements.
+Follow Me on Twitter, and my socials for updates and announcements.
+[Twitter](https://twitter.com/joseph_akar0)
+[LinkedIn](https://www.linkedin.com/in/josephakaro)
 
 ## 👩‍💻 Happy Gaming!
