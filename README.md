@@ -31,10 +31,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🔗 Links:
 
 ## SDL2 Documentation
-Project Demo https://themaze.josephakaro.tech
+Project Demo 👉 [Here](https://themaze.josephakaro.tech)
 ## 🌐 Stay Connected:
 Follow Me on Twitter, and my socials for updates and announcements.
-[Twitter](https://twitter.com/joseph_akar0)
-[LinkedIn](https://www.linkedin.com/in/josephakaro)
+- [Twitter](https://twitter.com/joseph_akar0)
+- [LinkedIn](https://www.linkedin.com/in/josephakaro)
 
 ## 👩‍💻 Happy Gaming!
